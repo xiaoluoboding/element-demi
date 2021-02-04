@@ -1,6 +1,6 @@
 {
   "name": "element-demi",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "An adapter for using Element UI with Vue 2 / 3",
   "main": "lib/index.cjs.js",
   "typings": "lib/index.d.ts",
@@ -9,7 +9,8 @@
     "postinstall": "node ./scripts/postinstall.js"
   },
   "files": [
-    "lib"
+    "lib",
+    "scripts"
   ],
   "keywords": [
     "vue",
