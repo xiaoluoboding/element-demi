@@ -8,6 +8,16 @@
   "scripts": {
     "postinstall": "node ./scripts/postinstall.js"
   },
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "vue",
+    "vue2",
+    "vue3",
+    "element-ui",
+    "element-plus"
+  ],
   "peerDependencies": {
     "element-plus": "^1.0.2-beta.31",
     "element-ui": "^2.15.0",
