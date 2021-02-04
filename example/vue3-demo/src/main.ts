@@ -1,7 +1,7 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 
-import ElementUI from './utils'
+import * as ElementUI from './utils'
 
 console.log(ElementUI)
 

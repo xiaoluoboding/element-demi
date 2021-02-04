@@ -1,12 +1,10 @@
 {
   "name": "element-demi",
   "version": "0.1.0",
-  "description": "",
+  "description": "An adapter for using Element UI with Vue 2 / 3",
   "main": "lib/index.cjs.js",
   "typings": "lib/index.d.ts",
   "module": "lib/index.esm.js",
-  "unpkg": "lib/index.iife.js",
-  "jsdelivr": "lib/index.iife.js",
   "scripts": {
     "postinstall": "node ./scripts/postinstall.js"
   },
@@ -15,14 +13,14 @@
     "element-ui": "^2.15.0",
     "vue": "^2.6.0 || >=3.0.0-rc.1"
   },
-  "author": "",
+  "sideEffects": false,
+  "author": "xiaoluoboding<https://github.com/xiaoluoboding>",
   "license": "MIT",
   "dependencies": {
     "vue-demi": "^0.6.0"
   },
   "devDependencies": {
     "element-plus": "^1.0.2-beta.31",
-    "element-ui": "^2.15.0",
-    "esbuild": "^0.8.39"
+    "element-ui": "^2.15.0"
   }
 }
