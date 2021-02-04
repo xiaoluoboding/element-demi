@@ -1,7 +1,7 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 
-import * as ElementUI from './utils'
+import ElementUI from 'element-demi'
 
 console.log(ElementUI)
 

@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
 
-import * as ElementUI from '@/utils/index'
+import ElementUI from 'element-demi'
 Vue.use(ElementUI)
 console.log(ElementUI)
 
