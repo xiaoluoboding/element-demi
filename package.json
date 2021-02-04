@@ -1,6 +1,6 @@
 {
   "name": "element-demi",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An adapter for using Element UI with Vue 2 / 3",
   "main": "lib/index.cjs.js",
   "typings": "lib/index.d.ts",
