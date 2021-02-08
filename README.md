@@ -2,12 +2,12 @@
 
 An adapter for using Element UI with Vue 2 / 3.
 
-## Just a toy
+## 🪀 Just a toy
 
 This lib aim to testing the `postinstall` npm hook. After all packages get installed. the script will start to check
 the installed Vue version and redirect the exports to based on the local Vue version.
 
-## Install
+## 📦 Install
 
 ```bash
 // vue2.x + element-ui
@@ -21,7 +21,7 @@ npm i element-demi element-plus
 yarn add element-demi element-plus
 ```
 
-## 💡 Usage
+## 🎩 Usage
 
 ### Vue2
 
@@ -48,9 +48,9 @@ app.use(ElementUI)
 
 Vue 2 Demo: [Vue CLI 2.x](./examples/vue2-demo/README.md)  |  Vue 3 Demo: [Vue CLI 3.x](./examples/vue3-demo/README.md)
 
-## Inspiration
+## 💡 Inspiration
 
-This libary is inspired by [@vueuse/core](https://github.com/antfu/vueuse)
+This libary is inspired by [VueDemi](https://github.com/vueuse/vue-demi)
 
 ## 📄 License
 
