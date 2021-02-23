@@ -4,7 +4,7 @@ An adapter for using Element UI with Vue 2 / 3.
 
 ## 🪀 Just a toy
 
-This lib aim to testing the `postinstall` npm hook. After all packages get installed. the script will start to check
+This library aim to testing the `postinstall` npm hook. After all packages get installed. the script will start to check
 the installed Vue version and redirect the exports to based on the local Vue version.
 
 ## 📦 Install
@@ -50,7 +50,7 @@ Vue 2 Demo: [Vue CLI 2.x](./examples/vue2-demo/README.md)  |  Vue 3 Demo: [Vue C
 
 ## 💡 Inspiration
 
-This libary is inspired by [VueDemi](https://github.com/vueuse/vue-demi)
+This library is inspired by [VueDemi](https://github.com/vueuse/vue-demi)
 
 ## 📄 License
 
